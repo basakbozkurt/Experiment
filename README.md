@@ -15,7 +15,7 @@ A **red dashed line at 0.80 power** represents the standard benchmark for adequa
 ### Power Analysis Plot  
 Below is the power analysis visualisation:
 
-![Power Analysis Plot](fig1.png)
+![Power Analysis Plot](https://github.com/basakbozkurt/Experiment/blob/main/figure.png)
 
 ## Why Choose an Effect Size of 0.29?  
 The effect size of **0.29** was selected based on empirical evidence from prior research. Specifically, I relied on a **meta-analysis of 30 studies on fact-checking interventions**, which reported an **average effect size of d = 0.29 (95% CI: [0.23, 0.36])** (Walter et al., 2020). This suggests that 0.29 is a reasonable estimate for the expected effect in similar studies.  
